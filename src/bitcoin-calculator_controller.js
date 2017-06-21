@@ -22,7 +22,7 @@
 				ctrl.getBTCPrice();
 			}else{
 				var data = ctrl.getCookieData();
-				console.log(data);
+				// console.log(data);
 			}
 
 		}
